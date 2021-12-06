@@ -39,12 +39,6 @@ I am interested in learning about Technologies.
 
 
 
-
-
-
-[![wakatime](https://wakatime.com/badge/user/e5eb4a29-3e98-4b51-8f7b-657f93e8344f/project/595266e1-1bcd-4412-8703-6b2b7eb364c0.svg)](https://wakatime.com/badge/user/e5eb4a29-3e98-4b51-8f7b-657f93e8344f/project/595266e1-1bcd-4412-8703-6b2b7eb364c0)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/irfan1810?&logoColor=red&style=social">](https://github.com/irfan1810?tab=followers)
-
 ------
 
 [Irfan](https://github.com/irfan1810)
