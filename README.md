@@ -28,12 +28,12 @@ I am interested in learning about Technologies.
 
 
 
-<a href="https://github.com/irfan1810">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan1810&theme=tokyonight" />
+<a href="https://github.com/cyclnn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclnn&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/irfan1810">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan1810&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/cyclnn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyclnn&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 
@@ -41,7 +41,7 @@ I am interested in learning about Technologies.
 
 ------
 
-[Irfan](https://github.com/irfan1810)
+[Irfan](https://github.com/cyclnn)
 
 Last Edited on: 03/12/2021
 
